@@ -33,10 +33,13 @@ This repository contains a number of files listed below
 ## 3. Alternatives
 ### 3a. Second and Third Degree Polynomials.
 2nd Degree Polynomial
+
 3rd Degree Polynomial
 ## 4. Summary
 Performance of Linear Model
+
 Alternatives to Linear Model
+
 Final Thoughts
 ## References
 ***
