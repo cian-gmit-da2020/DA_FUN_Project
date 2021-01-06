@@ -35,6 +35,7 @@ This repository contains a number of files listed below
 2nd Degree Polynomial
 
 3rd Degree Polynomial
+### 3b. Comparing Models
 ## 4. Summary
 Performance of Linear Model
 
